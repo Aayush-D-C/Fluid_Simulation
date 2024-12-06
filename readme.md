@@ -1,4 +1,4 @@
-🌊 Particle Simulation Project
+<h1>🌊 Particle Simulation Project</h1>
 📝 Overview
 This is a simple 2D particle simulation implemented in C++ using graphics.h, demonstrating basic physics principles like gravity, friction, and particle movement.
 ✨ Features
