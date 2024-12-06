@@ -1,19 +1,32 @@
 <h1>🌊 Particle Simulation Project</h1>
+
+![](__gifs_ref/first.gif)
+
+
 📝 Overview
+
+
 This is a simple 2D particle simulation implemented in C++ using graphics.h, demonstrating basic physics principles like gravity, friction, and particle movement.
-✨ Features
 
-🔢 Particle system with 100 particles
-🌍 Gravity and friction simulation
-🏀 Particle bouncing off screen boundaries
-🎲 Randomized initial particle positions and velocities
 
-🛠 Prerequisites
+<h2>✨ Features </h2>
 
-💻 C++ Compiler (GCC/G++)
-🖼 Graphics library (graphics.h)
-🏗 CMake
-🖼️ ImageMagick (for GIF generation)
+<ul>
+    <li>🔢 Particle system with 100 particles</li>
+    <li>🌍 Gravity and friction simulation</li>
+    <li>🏀 Particle bouncing off screen boundaries</li>
+    <li>🎲 Randomized initial particle positions and velocities</li>
+</ul>
+
+
+<h2>🛠 Prerequisites</h2>
+
+<ul>
+    <li>💻 C++ Compiler (GCC/G++)</li>
+    <li>🖼 Graphics library (graphics.h)</li>
+    <li>🏗 CMake</li>
+    <li>🖼️ ImageMagick (for GIF generation)</li>
+</ul>
 
 📦 Dependencies
 
